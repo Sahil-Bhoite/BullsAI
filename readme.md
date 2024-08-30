@@ -4,8 +4,6 @@
 
 Bull's AI is an advanced stock price prediction application powered by machine learning. Our platform is designed to help investors make data-driven decisions by leveraging cutting-edge algorithms and real-time market data.
 
-![Bull's AI Logo](https://www.flaticon.com/free-icon/bull_1606571?term=stock+bull&page=1&position=1&origin=search&related_id=1606571)
-)
 
 ## 🌟 Features
 
