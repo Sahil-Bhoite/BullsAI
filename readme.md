@@ -2,6 +2,8 @@
 
 ## 📊 Empowering Investors with Machine Learning
 
+## Try it here: **[link](https://bullai.streamlit.app)
+
 Bull's AI is an advanced stock price prediction application powered by machine learning. Our platform is designed to help investors make data-driven decisions by leveraging cutting-edge algorithms and real-time market data.
 
 
