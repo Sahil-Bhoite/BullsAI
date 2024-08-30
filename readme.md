@@ -86,9 +86,6 @@ We're constantly working to improve our predictions. Future updates may include:
 - Implementation of deep learning models such as LSTM networks
 - Integration of external data sources for more comprehensive analysis
 
-## 👥 Contributing
-
-We welcome contributions to Bull's AI! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) file for details on how to get started.
 
 ## 📄 License
 
