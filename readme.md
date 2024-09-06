@@ -1,5 +1,8 @@
 # 🐂 Bull's AI: Algorithmic Stock Prediction
 
+(BullsAI.png)
+
+
 ## 📊 Empowering Investors with Machine Learning
 
 ## Try it here: [Link](https://bullai.streamlit.app)
