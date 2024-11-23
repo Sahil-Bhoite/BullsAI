@@ -81,9 +81,3 @@ st.markdown(
 
     ---
 
-    ## 👨‍💻 **Developers**
-
-    - [Sahil Bhoite](https://www.linkedin.com/in/sahil-bhoite/): AI & Tech Enthusiast | LLMs | Java Developer | Machine Learning & Data Science Specialist | Python | Pune
-    - [Maheshwari Jadhav](https://www.linkedin.com/in/maheshwari-jadhav/): Java | Python | AI/ML | Generative AI | Frontend Development | MITAOE'25
-    """
-)
