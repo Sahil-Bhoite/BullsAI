@@ -80,4 +80,5 @@ st.markdown(
     - Integration of external data sources for more comprehensive analysis
 
     ---
-
+    """
+)
